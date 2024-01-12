@@ -11,3 +11,5 @@
   - Workspace wide find all references.
 * PHP Namespace Resolver  
   - 自動引用class，整理class
+* Trailing Spaces
+  - 自動去掉尾部多餘的空白
