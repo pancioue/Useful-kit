@@ -1,14 +1,23 @@
 # Useful-kit
 
-* PHP Intelephense (必選)
+必選
+--------
+* PHP Intelephense 
   - Rapid workspace wide go to definition support.
   - Workspace wide find all references.
+
+推薦
+--------
 * Git Graph 
   - git 圖
+* GitLens
+  - 查看最後是誰編輯
+  - gitlens inspect 可查看歷史修正紀錄
 * Code Spell Checker 
   - 修正單字拼錯，拼錯會顯示須須
-* GitLens  (選用)
-  - 查看最後是誰編輯
+ 
+選用
+--------
 * PHP Namespace Resolver  (選用)
   - 自動引用class，整理class
 * Trailing Spaces  (選用)
