@@ -5,6 +5,7 @@
 * PHP Intelephense 
   - Rapid workspace wide go to definition support.
   - Workspace wide find all references.
+  - 未被引用到的變數，會變暗色提示
 
 推薦
 --------
